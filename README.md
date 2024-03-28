@@ -1,4 +1,4 @@
-### <div align="center">I'm Antonino, an Italian student 5 computer science high school</div>  
+### <div align="center">I'm Antonino, an Italian computer science university student</div>  
   
 
 - This is a fun project account in which I will post various small and medium projects  
