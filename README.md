@@ -1,7 +1,7 @@
-### <div align="center">I'm Antonino, an Italian computer science university student</div>  
+### <div align="center">I'm Antonino, an university student of computer science</div>  
   
 
-- This is a fun project account in which I will post various small and medium projects  
+- This is an account for fun projects where I will post various small and medium projects  
   
 
 - account for serious projects click here -> [@Hikki0710](https://github.com/Hikki0710)  
