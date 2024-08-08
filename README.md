@@ -6,7 +6,11 @@
 
 - account for serious projects click here -> [@Hikki0710](https://github.com/Hikki0710)  
 
-<br/>  
+<div align="center">  
+
+![Top Langs](https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=Antonino0704&hide=html&theme=algolia&count_private=true)
+
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
