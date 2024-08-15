@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-![Top Langs](https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=Antonino0704&hide=html&theme=algolia&count_private=true)
+![Top Langs](https://github-readme-stats-chi-six-99.vercel.app/api/top-langs/?username=Antonino0704&hide=html&theme=algolia&count_private=true&langs_count=5)
 
 </div>
 
